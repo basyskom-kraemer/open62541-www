@@ -4,7 +4,7 @@ fragment = "portfolio"
 weight = 130
 #background = "default"
 
-title = "Commercial Support"
+title = "Partners and Commercial Support"
 #subtitle = "Displaying animals with links and modals"
 #title_align = "left" # Default is center, can be left, right or center
 
